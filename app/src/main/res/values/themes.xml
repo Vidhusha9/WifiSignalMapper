@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.WifiSignal" parent="Theme.AppCompat.Light.DarkActionBar" />
+</resources>
